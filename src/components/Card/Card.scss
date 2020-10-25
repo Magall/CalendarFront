@@ -1,0 +1,16 @@
+.card-container{
+    margin-bottom: 16px;
+    .custom-header{
+        display: flex;
+        justify-content: space-between;
+        button{
+            border:none;
+            background:transparent;
+            color:white
+        }
+    }
+    .dates-container{
+        display: flex;
+        justify-content: space-between;
+    }
+}
